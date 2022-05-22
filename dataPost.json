@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "caption": "Picture 01",
+        "image": "https://cdn.stocksnap.io/img-thumbs/280h/team-meeting_VQXYE2ZEHC.jpg",
+        "UserId": 2,
+        "status": "Active",
+        "like": 1
+    },
+    {
+        "id": 2,
+        "caption": "Picture 02",
+        "image": "https://cdn.stocksnap.io/img-thumbs/280h/team-meeting_VQXYE2ZEHC.jpg",
+        "UserId": 3,
+        "status": "Active",
+        "like": 2
+    }
+]

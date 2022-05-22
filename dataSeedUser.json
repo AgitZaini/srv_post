@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "password": "1234",
+        "email": "admin@gmail.com",
+        "imgUrl": "https://cdn.stocksnap.io/img-thumbs/280h/people-travel_XLKMFYFEW2.jpg",
+        "role": "Admin"
+    },
+    {
+        "id": 2,
+        "name": "Designer01",
+        "password": "1234",
+        "email": "Designer01@gmail.com",
+        "imgUrl": "https://cdn.stocksnap.io/img-thumbs/280h/male-running_CQYPEVEOYB.jpg",
+        "role": "Designer"
+    },
+    {
+        "id": 3,
+        "name": "Designer02",
+        "password": "1234",
+        "email": "Designer02@gmail.com",
+        "imgUrl": "https://cdn.stocksnap.io/img-thumbs/280h/IEHJWWJPVX.jpg",
+        "role": "Designer"
+    },
+    {
+        "id": 4,
+        "name": "HR01",
+        "password": "1234",
+        "email": "hr01@gmail.com",
+        "imgUrl": "https://cdn.stocksnap.io/img-thumbs/280h/male-running_CQYPEVEOYB.jpg",
+        "role": "Recruiter"
+    }
+]
